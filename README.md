@@ -7,7 +7,7 @@ Fields:
 - CV
 - Multimodal
 
-## NLP
+# NLP
 Topics:
 - [Efficiency](#efficiency)
     - Adapter tuning
@@ -17,6 +17,6 @@ Topics:
     - Inference-level early stopping
     - Distillation
 
-### Efficiency
-#### Adapter tuning
+## Efficiency
+### Adapter tuning
 - 
